@@ -3,7 +3,7 @@ By Default WPF pre-install text box control does not come with an auto complete/
 
 ## For detail article visit [WPF: Auto Complete/Suggstion Text Box](https://www.asmak9.com/) at [Asma's Blog](https://www.asmak9.com/)
 
-![WPF: Auto Complete/Suggstion Text Box]()
+![WPF: Auto Complete/Suggstion Text Box](https://1.bp.blogspot.com/-cI3fzuVP_b4/XP8cUvuJ-CI/AAAAAAAAB7Q/pUmKJKopNywoymn6a-oPXNH6UtroFBZBQCLcBGAs/s1600/1.PNG)
 
 Like, Share, Support, Subscribe!!!
 
