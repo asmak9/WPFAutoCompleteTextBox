@@ -5,6 +5,10 @@ By Default WPF pre-install text box control does not come with an auto complete/
 
 ![WPF: Auto Complete/Suggestion Text Box](https://1.bp.blogspot.com/-cI3fzuVP_b4/XP8cUvuJ-CI/AAAAAAAAB7Q/pUmKJKopNywoymn6a-oPXNH6UtroFBZBQCLcBGAs/s1600/1.PNG)
 
+<br/>
+<br/>
+<br/>
+
 Like, Share, Support, Subscribe!!!
 
 #### YouTube: https://bit.ly/2sY1aBb 
